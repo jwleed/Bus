@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468795314953",
+    "project_id": "my-bus2",
+    "storage_bucket": "my-bus2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468795314953:android:7e34233952c046f5c079d8",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzta5aqb9sxNNhcWZDcdYLGNiY1yqsl5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
